@@ -12,4 +12,3 @@
 |git fetch| git pull |
 |--|--|
 | no trae los archivos | trae los archivos |
-
